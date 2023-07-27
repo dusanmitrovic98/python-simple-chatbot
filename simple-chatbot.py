@@ -94,3 +94,4 @@ def main():
         print("Chatbot:", bot_response)
 
 
+if __name__ == "__main__":
