@@ -63,3 +63,4 @@ def generate_random_response():
         "I'm constantly learning, and I appreciate your input!",
         "I'm afraid I don't have the answer to that right now.",
         "I'm a language model, not an encyclopedia, but I'll do my best!",
+        "I wish I could help you with that, but I'm limited in my capabilities.",
