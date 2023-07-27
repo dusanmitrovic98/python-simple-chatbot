@@ -87,3 +87,4 @@ def main():
     while True:
         user_input = input("You: ")
         if user_input.lower() == "bye":
+            print("Chatbot: Goodbye! Have a great day!")
