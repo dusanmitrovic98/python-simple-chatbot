@@ -67,3 +67,4 @@ def generate_random_response():
         "I'm just a program, so I can't comprehend everything.",
         "I'm here to chat, but I might not have all the answers.",
         "I'm not omniscient, but I'll try my best to assist you.",
+        "I'm just here to be your chatty companion.",
