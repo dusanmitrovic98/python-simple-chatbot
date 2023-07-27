@@ -34,3 +34,4 @@ def generate_random_response():
         "You can address me as your friendly chat helper.",
         "I'm here to be your helpful chat friend.", 
         "I'm just your chat companion, always here for you."
+    ]
