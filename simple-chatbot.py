@@ -24,3 +24,4 @@ def generate_random_response():
         "I'm doing just fine, thanks for checking!", "I'm here, ready to assist you 24/7!"
     ]
     bot_name = [
+        "You can call me your friendly chat friend.", "Feel free to refer to me as your buddy.",
