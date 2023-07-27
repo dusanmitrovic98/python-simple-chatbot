@@ -13,3 +13,4 @@ def generate_random_response():
         "Hello, how can I make your day better?", "Hi, how's everything with you?",
         "Hello, what can I do to brighten your day?"
     ]
+    how_are_you = [
