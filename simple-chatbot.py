@@ -53,3 +53,4 @@ def generate_random_response():
         "Until we chat again, goodbye!",
         "Farewell, and remember,
         I'm always here when you need me!"
+    ]
