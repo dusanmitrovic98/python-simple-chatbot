@@ -81,3 +81,4 @@ def generate_random_response():
     return random.choice(all_responses)
 
 
+def main():
