@@ -55,3 +55,4 @@ def generate_random_response():
         I'm always here when you need me!"
     ]
     default_response = [
+        "I'm not sure how to respond to that. Can you be more specific?", "I didn't quite get that.",
