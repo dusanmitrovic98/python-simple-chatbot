@@ -50,3 +50,4 @@ def generate_random_response():
         "Take care and have a splendid day!",
         "Goodbye, till we meet again!",
         "Goodbye, have a fantastic time ahead!", 
+        "Until we chat again, goodbye!",
