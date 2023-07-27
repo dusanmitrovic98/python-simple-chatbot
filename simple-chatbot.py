@@ -69,3 +69,4 @@ def generate_random_response():
         "I'm not omniscient, but I'll try my best to assist you.",
         "I'm just here to be your chatty companion.",
         "I'm just a chat friend, not a human, so my understanding is limited.",
+        "I'm an AI, but I still have my limitations.",
