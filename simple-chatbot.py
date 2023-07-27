@@ -91,3 +91,4 @@ def main():
             break
 
         bot_response = generate_random_response()
+        print("Chatbot:", bot_response)
