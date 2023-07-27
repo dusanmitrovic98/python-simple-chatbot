@@ -70,3 +70,4 @@ def generate_random_response():
         "I'm just here to be your chatty companion.",
         "I'm just a chat friend, not a human, so my understanding is limited.",
         "I'm an AI, but I still have my limitations.",
+        "I'm just a friendly chat friend, not a human expert, so I may not know everything.",
