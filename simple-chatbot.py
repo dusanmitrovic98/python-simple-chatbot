@@ -75,3 +75,4 @@ def generate_random_response():
         "I'm constantly being updated with new information.",
         "I'm always striving to improve and provide better responses."
     ]
+
