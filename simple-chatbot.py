@@ -36,3 +36,4 @@ def generate_random_response():
         "I'm just your chat companion, always here for you."
     ]
     goodbyes = [
+        "Goodbye!", "Farewell!", "Take care!", 
