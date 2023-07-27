@@ -77,3 +77,4 @@ def generate_random_response():
     ]
 
     all_responses = greetings + how_are_you + bot_name + goodbyes + default_response
+
