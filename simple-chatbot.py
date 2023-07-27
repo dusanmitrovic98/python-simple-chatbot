@@ -9,3 +9,4 @@ def generate_random_response():
         "Hi, how are you doing?", "Hello, what's up?", "Hi there, how may I help you?",
         "Hey, it's good to see you!", "Hello, what brings you here?",
         "Hi, what's happening?", "Hello, how's your day going?",
+        "Hi, nice to have you here!", "Greetings and salutations!", "Hi there, what's on your mind?",
