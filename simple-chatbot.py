@@ -61,3 +61,4 @@ def generate_random_response():
         "I'm not programmed to understand that query.", "I'm still learning new things!",
         "My apologies, I'm not familiar with that topic.", "Hmm, let me think about that.",
         "I'm constantly learning, and I appreciate your input!",
+        "I'm afraid I don't have the answer to that right now.",
