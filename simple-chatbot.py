@@ -54,3 +54,4 @@ def generate_random_response():
         "Farewell, and remember,
         I'm always here when you need me!"
     ]
+    default_response = [
