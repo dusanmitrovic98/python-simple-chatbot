@@ -14,3 +14,4 @@ def generate_random_response():
         "Hello, what can I do to brighten your day?"
     ]
     how_are_you = [
+        "I'm just your friendly chat friend, but thanks for asking!", "I'm doing fine!",
