@@ -85,3 +85,4 @@ def main():
     print("Chatbot: Hello! How can I assist you?")
     
     while True:
+        user_input = input("You: ")
