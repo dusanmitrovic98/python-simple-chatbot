@@ -40,3 +40,4 @@ def generate_random_response():
         "Goodbye! Have a great day!",
         "Until next time!", "See you later!", 
         "Goodbye, have a nice day!",
+        "Goodbye, it was nice talking to you!",
