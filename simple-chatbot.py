@@ -76,3 +76,4 @@ def generate_random_response():
         "I'm always striving to improve and provide better responses."
     ]
 
+    all_responses = greetings + how_are_you + bot_name + goodbyes + default_response
