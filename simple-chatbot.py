@@ -23,3 +23,4 @@ def generate_random_response():
         "I'm doing splendidly!", "I'm feeling excellent!", "I'm doing quite well, how about you?",
         "I'm doing just fine, thanks for checking!", "I'm here, ready to assist you 24/7!"
     ]
+    bot_name = [
