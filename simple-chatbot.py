@@ -16,3 +16,4 @@ def generate_random_response():
     how_are_you = [
         "I'm just your friendly chat friend, but thanks for asking!", "I'm doing fine!",
         "I'm here to assist you!", "I'm good, thank you!", "I'm ready to help!",
+        "I'm just a program, so I don't have feelings.",
