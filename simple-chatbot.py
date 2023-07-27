@@ -71,3 +71,4 @@ def generate_random_response():
         "I'm just a chat friend, not a human, so my understanding is limited.",
         "I'm an AI, but I still have my limitations.",
         "I'm just a friendly chat friend, not a human expert, so I may not know everything.",
+        "I'm still learning, so bear with me!", "My knowledge is expanding every day!",
