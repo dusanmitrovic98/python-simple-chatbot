@@ -58,3 +58,4 @@ def generate_random_response():
         "I'm not sure how to respond to that. Can you be more specific?", "I didn't quite get that.",
         "I'm still learning, and I'm not sure how to answer that.",
         "Can you rephrase your question?", "I'm sorry, could you please repeat that?",
+        "I'm not programmed to understand that query.", "I'm still learning new things!",
