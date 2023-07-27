@@ -90,3 +90,4 @@ def main():
             print("Chatbot: Goodbye! Have a great day!")
             break
 
+        bot_response = generate_random_response()
