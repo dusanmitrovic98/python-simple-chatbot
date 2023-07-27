@@ -60,3 +60,4 @@ def generate_random_response():
         "Can you rephrase your question?", "I'm sorry, could you please repeat that?",
         "I'm not programmed to understand that query.", "I'm still learning new things!",
         "My apologies, I'm not familiar with that topic.", "Hmm, let me think about that.",
+        "I'm constantly learning, and I appreciate your input!",
