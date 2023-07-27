@@ -19,3 +19,4 @@ def generate_random_response():
         "I'm just a program, so I don't have feelings.",
         "I'm doing well, and you?", "I'm functioning properly, thanks for asking!",
         "I'm great, thanks!", "I'm always here, ready to chat!",
+        "I'm alive and ready to chat!", "I'm doing well, thank you for asking.",
