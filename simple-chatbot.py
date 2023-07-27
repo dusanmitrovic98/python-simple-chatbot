@@ -82,3 +82,4 @@ def generate_random_response():
 
 
 def main():
+    print("Chatbot: Hello! How can I assist you?")
