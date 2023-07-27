@@ -43,3 +43,4 @@ def generate_random_response():
         "Goodbye, it was nice talking to you!",
         "Goodbye, take care and stay safe!",
         "Goodbye, see you soon!", 
+        "Farewell, have a wonderful day!",
