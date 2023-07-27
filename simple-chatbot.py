@@ -30,3 +30,4 @@ def generate_random_response():
         "I'm just here to be your friendly conversational partner.",
         "I'm your virtual friend here to chat.",
         "I'm your trusty companion in conversations.",
+        "You can call me your talkative buddy.", 
